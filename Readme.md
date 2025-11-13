@@ -1,6 +1,6 @@
  Cloud Portfolio Website on AWS Amplify
 
-A high-performance, fully responsive personal portfolio website using HTML, CSS, and JavaScript. Deployed with a modern DevOps workflow—**CI/CD pipeline, global CDN, HTTPS, and custom domain**—leveraging the power of **AWS Amplify** and GitHub.
+A high-performance, fully responsive personal portfolio website using HTML, CSS, and JavaScript. Deployed with a modern DevOps workflow, **CI/CD pipeline, global CDN, HTTPS, and custom domain**,leveraging the power of **AWS Amplify** and GitHub.
 
 ---
 
@@ -189,7 +189,12 @@ These are **in-demand skills** for DevOps and Cloud Engineering roles!
 ### screenshost
 **amplify dashboard**
 <img width="1917" height="959" alt="amplify" src="https://github.com/user-attachments/assets/17ad9afb-92a2-47d7-9f70-ce1fd5231af8" />
-
+**logs**
+<img width="1919" height="955" alt="log" src="https://github.com/user-attachments/assets/e23a1a58-757b-404b-8a5d-5c3ef17aa615" />
+**metric**
+<img width="1919" height="1003" alt="metric" src="https://github.com/user-attachments/assets/0a8d305d-e659-489c-986e-310868397ab7" />
+**domain - route-53**
+<img width="1919" height="1079" alt="domain" src="https://github.com/user-attachments/assets/03906d1e-2877-4719-8e8e-36d272b7e1ed" />
 
 ## 👤 About This Project
 
