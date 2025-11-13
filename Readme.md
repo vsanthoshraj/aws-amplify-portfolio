@@ -24,11 +24,11 @@ https://santhoshrajv-portfolio.vercel.app/
 ##  Tech Stack
 
 - Plain HTML5, CSS3, JavaScript (no frameworks needed)
-- [AWS Amplify (Hosting & CI/CD)](https://aws.amazon.com/amplify/)
-- [Amazon CloudFront (CDN)](https://aws.amazon.com/cloudfront/)
-- [Amazon S3 (static assets)](https://aws.amazon.com/s3/)
-- [Amazon Route 53 (domain)](https://aws.amazon.com/route53/)
-- [AWS Certificate Manager (HTTPS)](https://aws.amazon.com/certificate-manager/)
+- AWS Amplify (Hosting & CI/CD)
+- Amazon CloudFront (CDN)
+- Amazon S3 (static assets)
+- Amazon Route 53 (domain)
+- AWS Certificate Manager (HTTPS)
 - GitHub (version control and automation)
 
 ---
@@ -44,7 +44,6 @@ https://santhoshrajv-portfolio.vercel.app/
 │   ├── images/
 │   └── docs/
 ├── README.md          # This file
-└── amplify.yml        # (optional) Custom build configuration
 ```
 
 ---
@@ -185,22 +184,11 @@ These are **in-demand skills** for DevOps and Cloud Engineering roles!
 - Wait 15-30 minutes for DNS propagation
 - If still stuck, delete the domain and re-add it
 
-### Problem: Build times out or fails
-
-**Solution:**
-- Compress all images before committing
-- Remove unnecessary files from repository
-- Use `.gitignore` to exclude large files
-
-### Problem: High AWS costs
-
-**Solution:**
-- Optimize image sizes
-- Enable CloudFront caching
-- Monitor CloudWatch metrics
-- Set billing alerts at $10/month
-
 ---
+
+### screenshost
+**amplify dashboard**
+<img width="1917" height="959" alt="amplify" src="https://github.com/user-attachments/assets/17ad9afb-92a2-47d7-9f70-ce1fd5231af8" />
 
 
 ## 👤 About This Project
@@ -221,20 +209,6 @@ These are **in-demand skills** for DevOps and Cloud Engineering roles!
 ## 📜 License
 
 This project is open source and available free
-
-You're free to:
-- ✅ Use this for your own portfolio
-- ✅ Fork and customize
-- ✅ Share and learn from it
-- ✅ Contribute improvements
-
----
-
-## 🙏 Acknowledgments
-
-- AWS Amplify documentation and support
-- GitHub for free hosting and collaboration
-- The open-source community
 
 
 ---
