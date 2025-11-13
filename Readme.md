@@ -202,31 +202,6 @@ These are **in-demand skills** for DevOps and Cloud Engineering roles!
 
 ---
 
-## 🚀 Advanced Tips
-
-### 1. Add Environment Variables
-```bash
-# In Amplify Console: App settings → Environment variables
-REACT_APP_API_URL=https://api.example.com
-```
-
-### 2. Set Up CloudWatch Alarms
-- Monitor 4xx/5xx errors
-- Get email alerts for issues
-- Track bandwidth usage
-
-### 3. Use Branches for Testing
-```bash
-git checkout -b feature/new-section
-# Make changes
-git push origin feature/new-section
-# Amplify creates a preview deployment
-# Review changes before merging to main
-```
-
-### 4. Automate with GitHub Actions
-Create `.github/workflows/deploy.yml` for custom build steps.
-
 
 ## 👤 About This Project
 
