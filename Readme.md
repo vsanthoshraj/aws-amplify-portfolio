@@ -29,6 +29,7 @@ https://santhoshrajv-portfolio.vercel.app/
 - Amazon S3 (static assets)
 - Amazon Route 53 (domain)
 - AWS Certificate Manager (HTTPS)
+- AWS WAF (firewall)
 - GitHub (version control and automation)
 
 ---
