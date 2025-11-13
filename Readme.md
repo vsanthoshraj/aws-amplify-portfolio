@@ -32,6 +32,12 @@ https://santhoshrajv-portfolio.vercel.app/
 - AWS WAF (firewall)
 - GitHub (version control and automation)
 
+
+**workFlow**
+
+<img width="3024" height="1701" alt="project-3" src="https://github.com/user-attachments/assets/85aca978-2eaf-4a11-823c-68ff5f5b9abf" />
+
+
 ---
 
 ##  Repository Structure
@@ -50,13 +56,6 @@ https://santhoshrajv-portfolio.vercel.app/
 ---
 
 ## 👷 How It Works (CI/CD Flow)
-
-
-
-**workFlow**
-
-<img width="3024" height="1701" alt="project-3" src="https://github.com/user-attachments/assets/85aca978-2eaf-4a11-823c-68ff5f5b9abf" />
-
 
 1. **Development:** Edit HTML, CSS, JS files locally in your code editor.
 2. **Version Control:** Stage changes with `git add .`, commit with `git commit -m "message"`.
