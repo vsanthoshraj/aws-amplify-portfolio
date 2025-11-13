@@ -50,11 +50,18 @@ https://santhoshrajv-portfolio.vercel.app/
 
 ## 👷 How It Works (CI/CD Flow)
 
+
+
+**workFlow**
+
+<img width="3024" height="1701" alt="project-3" src="https://github.com/user-attachments/assets/85aca978-2eaf-4a11-823c-68ff5f5b9abf" />
+
+
 1. **Development:** Edit HTML, CSS, JS files locally in your code editor.
 2. **Version Control:** Stage changes with `git add .`, commit with `git commit -m "message"`.
 3. **GitHub Push:** Push to main branch with `git push origin main`.
 4. **Build Trigger:** AWS Amplify detects changes via GitHub webhook and automatically starts the CI/CD pipeline.
-5. **Build & Deploy:** Amplify builds (or simply copies for static sites) your project and deploys to Amazon S3.
+5. **Build & Deploy:** Amplify builds (or simply copies for static sites) my project and deploys to Amazon S3.
 6. **CDN Delivery:** Amazon CloudFront caches and serves your site globally, performing cache invalidation on every deployment.
 7. **Live Updates:** Your portfolio changes go live globally within 2–3 minutes of each git push.
 
